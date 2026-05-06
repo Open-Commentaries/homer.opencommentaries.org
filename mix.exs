@@ -19,6 +19,10 @@ defmodule AHCIP.MixProject do
   end
 
   # Run "mix help deps" to learn about dependencies.
+  # do not update the kodon ref, as kodon has
+  # changed so that it only handles parsing TEI
+  # or commentaries and collating passages with commentaries
+  # and translations
   defp deps do
     [
       {:kodon, git: "https://github.com/pletcher/kodon_ex.git", ref: "77cac7557b40f62761cc10dd6d2a23c474ec3105"}
