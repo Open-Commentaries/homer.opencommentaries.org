@@ -199,6 +199,18 @@ defmodule Mix.Tasks.Ahcip.Build do
     # Copy CSS
     Renderer.copy_css(output_dir)
     Renderer.copy_fonts(output_dir)
+    copy_images(output_dir)
+
+    :ok
+  end
+
+  defp copy_images(output_dir) do
+    images_dir = Path.join(output_dir, "images")
+    File.mkdir_p!(images_dir)
+
+    for f <- Path.wildcard(Path.join(["priv", "images", "*"])) do
+      File.cp!(f, Path.join(images_dir, Path.basename(f)))
+    end
 
     :ok
   end
