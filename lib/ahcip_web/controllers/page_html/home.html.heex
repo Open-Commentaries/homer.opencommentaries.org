@@ -1,0 +1,97 @@
+<Layouts.flash_group flash={@flash} />
+<div class="relative isolate overflow-hidden">
+  <div class="mx-auto max-w-7xl px-6 pt-10 pb-24 sm:pb-32 lg:flex lg:px-8 lg:py-32">
+    <div class="mx-auto max-w-2xl shrink-0 lg:mx-0 lg:pt-8">
+      <%!-- content column --%>
+      <h1 class="text-4xl font-bold tracking-tight sm:text-6xl">A Homer Commentary in Progress</h1>
+      <p class="mt-6 text-base-content/70 text-lg">
+        A scholarly reading environment for the <em>Iliad</em>, the <em>Odyssey</em>,
+        and the <em>Homeric Hymns</em>, with an ongoing line-by-line translation and
+        commentary. Select a work below to begin reading.
+      </p>
+
+      <div class="mt-10 flex flex-col gap-4">
+        <%= for work <- @works, work.slug in ["tlg0012.tlg001", "tlg0012.tlg002"] do %>
+          <details class="group rounded-box border border-primary/10 bg-linear-to-br from-primary/5 to-accent/5">
+            <summary class="flex cursor-pointer list-none items-center justify-between px-6 py-4 text-lg font-semibold rounded-box hover:bg-primary/10 transition-colors">
+              <%= work.title %>
+              <svg
+                class="h-5 w-5 transition-transform group-open:rotate-180"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                aria-hidden="true"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+                  clip-rule="evenodd"
+                />
+              </svg>
+            </summary>
+            <ul class="px-6 pb-4 pt-1 grid grid-cols-4 gap-1">
+              <%= for n <- work.sections do %>
+                <li>
+                  <a
+                    href={"/passages/" <> work.urn <> ":" <> to_string(n)}
+                    class="block rounded-lg px-3 py-1.5 text-sm hover:bg-primary/10 transition-colors"
+                  >
+                    <%= work.section_label %> <%= n %>
+                  </a>
+                </li>
+              <% end %>
+            </ul>
+          </details>
+        <% end %>
+
+        <details class="group rounded-box border border-primary/10 bg-linear-to-br from-primary/5 to-accent/5">
+          <summary class="flex cursor-pointer list-none items-center justify-between px-6 py-4 text-lg font-semibold rounded-box hover:bg-primary/10 transition-colors">
+            Homeric Hymns
+            <svg
+              class="h-5 w-5 transition-transform group-open:rotate-180"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              aria-hidden="true"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </summary>
+          <ul class="px-6 pb-4 pt-1 flex flex-col gap-1">
+            <%= for hymn <- @works, hymn.section_type == :hymn do %>
+              <li>
+                <a
+                  href={"/passages/" <> hymn.urn <> ":1"}
+                  class="block rounded-lg px-3 py-1.5 text-sm hover:bg-primary/10 transition-colors"
+                >
+                  <%= hymn.title %>
+                </a>
+              </li>
+            <% end %>
+          </ul>
+        </details>
+      </div>
+    </div>
+
+    <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:mt-0 lg:mr-0 lg:ml-10 lg:max-w-none lg:flex-none xl:ml-32">
+      <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
+        <img
+          src={~p"/images/venetus-a.jpg"}
+          alt="Venetus A, the 10th-century manuscript of the Iliad held at the Biblioteca Nazionale Marciana"
+          class="w-[36rem] rounded-md bg-base-200 shadow-xl ring-1 ring-base-300"
+        />
+        <p class="mt-2 text-xs text-base-content/50">
+          Biblioteca Nazionale Marciana, Public domain, via
+          <a
+            href="https://commons.wikimedia.org/wiki/File:VA024RN-0025.jpg"
+            class="underline hover:text-base-content/70"
+          >
+            Wikimedia Commons
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

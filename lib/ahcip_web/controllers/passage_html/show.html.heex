@@ -1,0 +1,84 @@
+<Layouts.flash_group flash={@flash} />
+<div class="flex gap-6 px-4 py-10 sm:px-6 sm:py-16 lg:px-8">
+  <nav class="w-52 shrink-0 sticky top-4 self-start max-h-[calc(100vh-2rem)] overflow-y-auto">
+    <.work_nav current_urn={@section.urn} />
+  </nav>
+
+  <article class="tei-text flex-1 min-w-0">
+    <h1 class="text-2xl font-bold mb-6"><%= @display_title %></h1>
+
+    <%= if @mode == :scholar do %>
+      <%= for item <- @content do %>
+        <%= case item do %>
+          <% {:scholar_line, line} -> %>
+            <div class="tei-l flex justify-between" id={Kodon.CrossRef.line_id(@section_number, line.number)}>
+              <div class="tei-inner-l">
+                <%= case Map.get(@greek_lines, to_string(line.number)) do %>
+                  <% nil -> %>
+                    <%= Phoenix.HTML.raw(Kodon.Renderer.render_line_text(line, @section_number)) %>
+                  <% greek_text -> %>
+                    <span class="greek-primary" lang="grc"><%= greek_text %></span>
+                    <details class="translation-source">
+                      <summary class="translation-toggle cursor-pointer text-sm text-base-content/60">Translation</summary>
+                      <div class="translation-text">
+                        <%= Phoenix.HTML.raw(Kodon.Renderer.render_line_text(line, @section_number)) %>
+                      </div>
+                    </details>
+                <% end %>
+              </div>
+              <span class="select-none text-sm text-base-content/40 ml-4 shrink-0"><%= line.number %></span>
+            </div>
+          <% {:fallback_gap, gap} -> %>
+            <%= for line_num <- gap.start_line..gap.end_line do %>
+              <%= case Map.get(@greek_lines, to_string(line_num)) do %>
+                <% nil -> %>
+                <% greek_text -> %>
+                  <div class="tei-l flex justify-between" id={Kodon.CrossRef.line_id(@section_number, line_num)}>
+                    <div class="tei-inner-l">
+                      <span class="greek-primary" lang="grc"><%= greek_text %></span>
+                    </div>
+                    <span class="select-none text-sm text-base-content/40 ml-4 shrink-0"><%= line_num %></span>
+                  </div>
+              <% end %>
+            <% end %>
+            <div class="scaife-gap my-2 text-sm">
+              <a
+                href={"#{@work.scaife_url}:#{@section_number}.#{gap.start_line}-#{@section_number}.#{gap.end_line}/"}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="underline hover:text-base-content/70"
+              >
+                Read lines <%= gap.start_line %>&ndash;<%= gap.end_line %> in translation on Scaife &#8599;
+              </a>
+            </div>
+        <% end %>
+      <% end %>
+    <% else %>
+      <%= for element <- @section.elements do %>
+        <.text_container element={element} />
+      <% end %>
+    <% end %>
+  </article>
+
+  <%= if @comments != [] do %>
+    <aside class="w-80 shrink-0 flex flex-col gap-3">
+      <%= for comment <- @comments do %>
+        <details class="group rounded-box border border-base-300 bg-base-100 text-sm">
+          <summary class="flex cursor-pointer list-none items-center justify-between px-4 py-3 gap-3">
+            <span class="font-medium truncate">
+              <%= if comment["start_line"] == comment["end_line"] do %>
+                Line <%= comment["start_line"] %>
+              <% else %>
+                Lines <%= comment["start_line"] %>&ndash;<%= comment["end_line"] %>
+              <% end %>
+            </span>
+            <code class="text-xs text-base-content/60 shrink-0"><%= Enum.join(comment["authors"], ", ") %></code>
+          </summary>
+          <div class="px-4 pb-4 pt-1 prose prose-sm max-w-none">
+            <%= Phoenix.HTML.raw(comment["content_html"]) %>
+          </div>
+        </details>
+      <% end %>
+    </aside>
+  <% end %>
+</div>

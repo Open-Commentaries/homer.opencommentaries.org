@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="csrf-token" content={get_csrf_token()} />
+    <.live_title default="A Homer Commentary in Progress">
+      {assigns[:page_title]}
+    </.live_title>
+    <link phx-track-static rel="stylesheet" href={~p"/assets/css/app.css"} />
+    <script defer phx-track-static type="text/javascript" src={~p"/assets/js/app.js"}>
+    </script>
+  </head>
+  <body>
+    <header class="navbar bg-linear-to-r from-primary/5 to-accent/5 px-4 lg:px-8 border-b border-primary/10">
+      <div class="flex-1">
+        <a href="/" class="text-base font-semibold tracking-tight">A Homer Commentary in Progress</a>
+      </div>
+      <nav class="flex gap-1 text-sm">
+        <a href="/" class="rounded-lg px-3 py-1.5 hover:bg-primary/10 transition-colors">Home</a>
+        <a href="/about" class="rounded-lg px-3 py-1.5 hover:bg-primary/10 transition-colors">About</a>
+      </nav>
+    </header>
+    {@inner_content}
+  </body>
+</html>
