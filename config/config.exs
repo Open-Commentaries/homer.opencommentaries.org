@@ -11,9 +11,7 @@ config :ahcip,
   generators: [timestamp_type: :utc_datetime],
   translation_dir:
     System.get_env("TRANSLATION_DIR", "translation/ahcip/A Homeric translation IP"),
-  data_dir: System.get_env("DATA_DIR", "tei/data"),
-  commentary_dir: System.get_env("COMMENTARY_DIR", "commentary"),
-  site_title: "A Homer Commentary in Progress"
+  commentary_dir: System.get_env("COMMENTARY_DIR", "commentary")
 
 # Configure the endpoint
 config :ahcip, AHCIPWeb.Endpoint,

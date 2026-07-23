@@ -65,12 +65,16 @@
   --color-base-200: oklch(96% 0.001 286.375);
   --color-base-300: oklch(92% 0.004 286.32);
   --color-base-content: oklch(21% 0.006 285.885);
-  --color-primary: oklch(70% 0.213 47.604);
-  --color-primary-content: oklch(98% 0.016 73.684);
+  /* Primary/accent retuned to the sepia and parchment tones of the Venetus
+     A manuscript photo (priv/static/images/venetus-a.jpg) so the header and
+     hero gradients read as warm parchment rather than daisyUI's stock
+     orange/black. */
+  --color-primary: oklch(47.08% 0.112 50.845);
+  --color-primary-content: oklch(97% 0.016 73.684);
   --color-secondary: oklch(55% 0.027 264.364);
   --color-secondary-content: oklch(98% 0.002 247.839);
-  --color-accent: oklch(0% 0 0);
-  --color-accent-content: oklch(100% 0 0);
+  --color-accent: oklch(72.02% 0.074 73.783);
+  --color-accent-content: oklch(30% 0.033 66.713);
   --color-neutral: oklch(44% 0.017 285.786);
   --color-neutral-content: oklch(98% 0 0);
   --color-info: oklch(62% 0.214 259.815);

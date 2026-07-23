@@ -131,10 +131,4 @@ defmodule AHCIP.WorkRegistry do
   def find_by_slug(slug) do
     Enum.find(works(), &(&1.slug == slug))
   end
-
-  @doc """
-  Get the fallback hymn title for a given hymn number.
-  """
-  @spec hymn_title(integer()) :: String.t()
-  def hymn_title(n), do: Map.get(@hymn_titles, n, "Hymn #{n}")
 end
