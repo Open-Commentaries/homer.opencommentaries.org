@@ -64,15 +64,15 @@
     <aside class="w-80 shrink-0 flex flex-col gap-3">
       <%= for comment <- @comments do %>
         <details class="group rounded-box border border-base-300 bg-base-100 text-sm">
-          <summary class="flex cursor-pointer list-none items-center justify-between px-4 py-3 gap-3">
-            <span class="font-medium truncate">
+          <summary class="flex cursor-pointer list-none items-start justify-between px-4 py-3 gap-3">
+            <span class="font-medium shrink-0">
               <%= if comment["start_line"] == comment["end_line"] do %>
                 Line <%= comment["start_line"] %>
               <% else %>
                 Lines <%= comment["start_line"] %>&ndash;<%= comment["end_line"] %>
               <% end %>
             </span>
-            <code class="text-xs text-base-content/60 shrink-0"><%= Enum.join(comment["authors"], ", ") %></code>
+            <span class="text-xs text-base-content/60 min-w-0 text-right text-wrap"><%= Enum.join(comment["authors"], ", ") %></span>
           </summary>
           <div class="px-4 pb-4 pt-1 prose prose-sm max-w-none">
             <%= Phoenix.HTML.raw(comment["content_html"]) %>
