@@ -32,7 +32,8 @@ all of us during our early years as students at Harvard, and we were
 strongly influenced by his lifelong research, as summarized in Lord's
 magisterial synthesis, *The Singer of Tales* (1960; second edition 2000
 by Stephen Mitchell and Gregory Nagy, with new introduction; third
-edition 2019 by David Elmer).
+edition 2019 by David Elmer); and translated into many languages, most 
+recently, [Brazilian Portuguese] (https://www.editora.ufpr.br/antropologia/cantor-de-historias-o-ed--3-552/p)).
 
 Lord's work convinced us that Homeric poetry is a system generated from
 oral traditions, and that the building blocks of this system are
@@ -153,7 +154,9 @@ be working with two Executive Editors of AHCIP: Keith DeStone and
 Claudia Filos, both of whom are also Editors of *Classical Continuum*,
 and who will be consulting regularly with other Editors of CC (listed
 here: <https://continuum.fas.harvard.edu/editorial-team/>), especially
-with Charles Pletcher.
+with Charles Pletcher, who has implemented direct links of comments in 
+AHCIP to the texts of Homeric poetry in the forthcoming, next version of 
+the Perseus Project (<http://www.perseus.tufts.edu/>), Perseus 6.
 
 **Bibliography**
 
