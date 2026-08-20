@@ -32,7 +32,8 @@ all of us during our early years as students at Harvard, and we were
 strongly influenced by his lifelong research, as summarized in Lord's
 magisterial synthesis, *The Singer of Tales* (1960; second edition 2000
 by Stephen Mitchell and Gregory Nagy, with new introduction; third
-edition 2019 by David Elmer).
+edition 2019 by David Elmer); and translated into many languages, most 
+recently, Brazilian Portuguese (available here: https://www.editora.ufpr.br/antropologia/cantor-de-historias-o-ed--3-552/p).
 
 Lord's work convinced us that Homeric poetry is a system generated from
 oral traditions, and that the building blocks of this system are
@@ -153,12 +154,13 @@ be working with two Executive Editors of AHCIP: Keith DeStone and
 Claudia Filos, both of whom are also Editors of *Classical Continuum*,
 and who will be consulting regularly with other Editors of CC (listed
 here: <https://continuum.fas.harvard.edu/editorial-team/>), especially
-with Charles Pletcher.
+with Charles Pletcher, who has implemented direct links of comments in 
+AHCIP to the texts of Homeric poetry in the forthcoming, next version of 
+the Perseus Project (<http://www.perseus.tufts.edu/>), Perseus 6.
 
 **Bibliography**
 
-AHCIP = *A Homer commentary in progress*. See Frame, Muellner, and Nagy
-2017-.
+AHCIP = *A Homer commentary in progress*. See Frame, Muellner, and Nagy 2017-; ed, Martin 2026–.
 
 Dué, C., and M. Ebbott. 2010. *Iliad 10 and the Poetics of Ambush: A
 Multitext Edition with Essays and Commentary*. Hellenic Studies Series
@@ -222,7 +224,7 @@ Martin, R. P. 2020. *Mythologizing Performance*. Ithaca, NY.
 <https://continuum.fas.harvard.edu/book/mythologizing-performance/>.
 
 Martin, R. P., ed. 2026--. "A Homer commentary in progress." Executive
-Editors: K. DeStone and C. Filos.
+Editors: K. DeStone and C. Filos. https://homer.opencommentaries.org/.
 
 Meillet, A. 1921/1936. *Linguistique historique et linguistique
 générale*. I/II. Paris.
@@ -255,7 +257,7 @@ Nagy, G. 2022.12.01. "Comments on the Homeric *Iliad* and *Odyssey*," by
 Gregory Nagy, restarted 2022. *Classical Continuum*.
 <https://continuum.fas.harvard.edu/a-sampling-of-comments-on-the-homeric-iliad-and-odyssey-restarted-2022/>.
 
-Nagy, G. 2026.08.20. "A foreword to a Homer commentary in progress."
+Nagy, G. 2026.08.19. "A foreword to a Homer commentary in progress."
 *Classical Continuum*.
 
 Parry, A., ed. 1971. *The Making of Homeric Verse: The Collected Papers
