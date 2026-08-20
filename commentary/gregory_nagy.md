@@ -574,8 +574,8 @@ The anonymous author of a *Life of Homer* (on the *Lives of Homer*, see the inve
 :created_at: 2020-03-12T16:43:43.298Z
 :updated_at: 2020-03-12T16:43:43.298Z
 
-The word πεμπώβολα ‘having five prongs’ at *Iliad* Ι 463 belongs to the dialect family known as Aeolic, as distinct from the "default" language of Homeric poetry, which belongs to the dialect family known as Ionic. The part of this compound adjective that means ‘five’ is Aeolic πέμπε, to be contrasted with Ionic πέντε. In Aeolic, kʷ becomes π before ε, whereas it becοmes τ before ε in Ionic. Further commentary on pp. 173-175 of Nagy 2011, "The Aeolic Component of Homeric Diction,"  
- http://chs.harvard.edu/CHS/article/display/4138  
+The word πεμπώβολα ‘having five prongs’ at *Iliad* Ι 463 belongs to the dialect family known as Aeolic, as distinct from the "default" language of Homeric poetry, which belongs to the dialect family known as Ionic. The part of this compound adjective that means ‘five’ is Aeolic πέμπε, to be contrasted with Ionic πέντε. In Aeolic, kʷ becomes π before ε, whereas it becοmes τ before ε in Ionic. Further commentary on pp. 173-175 of Nagy 2011, "The Aeolic Component of Homeric Diction,"
+ http://chs.harvard.edu/CHS/article/display/4138
  In that article, I cite an interesting remark in the “pseudo-Herodotean” Life of Homer, Vita 1.517–537. Toward the end of this passage, the author says: 'You see, the Aeolians are the only ones among the Greeks who roast the innards with forks that have five prongs [πεμπώβολα], while the other Greeks use forks that have three prongs. And of course the word that the Aeolians use for ‘five’ [pente] is pempe.'
 
 ---
@@ -701,9 +701,9 @@ The False Dream that is sent by Zeus to the sleeping Agamemnon is a false Will o
 
 The narrative of Rhapsody 2 now follows up on the dire consequences of the quarrel between Achilles and Agamemnon as narrated in Rhapsody 1. Achilles has already withdrawn from the war because of his anger. So, now that this greatest hero of the Achaeans is out of the picture, what will happen next? How will the absence of Achilles affect the story of the Trojan War? Many new doubts and fears set in, and the resolve of the Achaeans is harshly tested. There is negative talk, and there are omens. Thus the story of the Trojan War, as told and retold countless times in the distant past, must now be retold yet again, and Rhapsody 2 will set the terms for the retelling still to come. For setting the terms, Rhapsody 2 will need a new Catalogue of Ships, now happening in the tenth year of the war, as a replacement for any old Catalogue that would have logically happened already in the first year. This new Catalogue is of course not really new: rather, it is the oldest possible Catalogue that is now being renewed for the newest possible retelling of the Trojan War, reconsidered in the glaring light of the grim consequences facing the Achaeans now that Achilles has withdrawn from the war. With these consequences in view, the Catalogue will reassess all the Achaean heroes involved in the Trojan War. Of special interest will be the role of Protesilaos, who had been the first Achaean to die in the war, as a model for Achilles. As the Master Narrator notes most ruefully, Protesilaos is now terribly missed by his fellow warriors. So too will Achilles be missed.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/07/protesilaos5.jpg)On the reverse side of the coin:  
-Inscription: ΘΗΒΑΙΩΝ.  
-Pictured: the Greek hero Protesilaos, the first Achaean to step on Trojan soil and, according to the myth, the first to die in the Trojan War.   
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/07/protesilaos5.jpg)On the reverse side of the coin:
+Inscription: ΘΗΒΑΙΩΝ.
+Pictured: the Greek hero Protesilaos, the first Achaean to step on Trojan soil and, according to the myth, the first to die in the Trojan War.
 The myth is retold in *Iliad* 2.695–709.
 
 ---
@@ -4043,7 +4043,7 @@ At O.05.001–002 and here at I.11.001–002, Ēōs as goddess of the dawn is li
 
 Rhapsody 11 marks the point in the *Iliad* where Patroklos is drawn into a fatal pattern of impersonating Achilles. Pivotal is the story that Patroklos hears from the old hero Nestor. My comments here on *Iliad* 11 work around Nestor’s story at I.11.670–803 as analyzed in the book *[Hippota Nestor](https://chs.harvard.edu/CHS/article/display/4101)* by Douglas Frame, 2009:105–130.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/09/Nestor-and-sons-sacrifice.jpg)Nestor and his sons sacrifice to Poseidon. Attic red-figure calyx-krater, ca. 400–380 BCE.  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/09/Nestor-and-sons-sacrifice.jpg)Nestor and his sons sacrifice to Poseidon. Attic red-figure calyx-krater, ca. 400–380 BCE.
 © Marie-Lan Nguyen / Wikimedia Commons, via Wikimedia Commons.
 
 ---
@@ -4435,7 +4435,7 @@ In the immediate context, only the surface meaning of *therapōn* as ‘attendan
 
 At the very beginning of *Iliad* 12, we modern readers may find that we have suddenly hit a wall—the Achaean Wall. It seems difficult for us to understand what the Master Narrator of the *Iliad* is really saying when he foretells the future destruction or deconstruction of this structure. And the main obstacle to our understanding here is not the presence of the Achaean Wall in the *Iliad* but rather its foretold absence—after all is said and done in the narrative. For the ancients who heard the Iliad narrated to them, by contrast, the future absence of the Achaean Wall was perfectly understandable *in terms of the narration itself*. And that is because the Master Narrator presupposes that there is no Achaean Wall to be seen in the Trojan landscape at the time of narration. Such a presupposition shapes the narrative of *Iliad* 12—and in fact it shapes the whole narrative of the *Iliad*. The setting for this narrative remains the world of heroes, which is larger-than-life because it is situated in the heroic past, but the setting for the actual narration of this narrative is the post-heroic world of a present time as figured by the Master Narrator himself. The staging of the heroic world by the Master Narrator is comparable to what is called the *mise-en-scène* in the traditions of French theater and film. And the predominant feature of the Iliadic *mise-en-scène* or scenery is the Achaean Wall, not the Trojan Wall. That is why the building of this structure by the Achaeans in Iliad 7 had been opposed by the gods Poseidon and Apollo, the original builders of the Trojan Wall. But the Achaean Wall needed to be built by the Achaeans to protect them and their ships from the fire of Hector—which would not be threatening them if Achilles had not been insulted by Agamemnon in *Iliad* 1. If we think of the overall plot of the *Iliad* as a scenario, then the Achaean Wall can be seen as an integral feature of the scenery for this scenario.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/10/RP-P-OB-16.043.jpg)“Siege of the Greek Camp.” Crispijn van de Passe (I) (1613). Public domain image, via Rijks Museum.   
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/10/RP-P-OB-16.043.jpg)“Siege of the Greek Camp.” Crispijn van de Passe (I) (1613). Public domain image, via Rijks Museum.
 (https://www.rijksmuseum.nl/en/collection/RP-P-OB-16.043)
 
 ---
@@ -5612,8 +5612,8 @@ See the comments on I.01.188, I.01.407–412, I.01.503–510, I.01.509, I.01.558
 
 This line shows that the grief of the Achaeans during the Battle of the Ships qualifies as *ákhos,* which signals *le transfer du mal*, or 'a transfer of evil':
 
-the *ákhos* of Achilles leads to  
-the *ménis* of Achilles leads to  
+the *ákhos* of Achilles leads to
+the *ménis* of Achilles leads to
 the *ákhos* of the Achaeans
 
 See the comments on I.01.188, I.01.407–412, I.01.503–510, I.01.509, I.01.558–559**, **I.09.003, I.09.008–009, I.11.317–319.
@@ -7734,8 +7734,8 @@ The goddess of dawn, Ēōs, is pictured here as emerging from the streams of the
 
 The time has come for Achilles to re-enter the war against the Trojans. For this to happen, Agamemnon must first settle with Achilles. But the over-king feels the need to say more than simply to formulate his proposed terms of settlement. His aim is to excuse himself from responsibility for dishonoring Achilles, and the story that he tells in order to achieve this aim is a retelling of a cosmic atē ‘aberration’ that resulted in the Labors of Hēraklēs. Such a retelling, however, is destined to backfire: it will result in further damage to Agamemnon’s own royal status and in further advancement for the heroic prestige of Achilles, for whom Hēraklēs now becomes a perfect model.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/11/156108001.jpg)Herakles at the tree of the Hesperides, holding three of the golden apples in his left hand. Behind him is the apple tree with the guardian serpent clinging around it.  
-Bronze, 104.5cm (Roman, 1st century C.E.).  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/11/156108001.jpg)Herakles at the tree of the Hesperides, holding three of the golden apples in his left hand. Behind him is the apple tree with the guardian serpent clinging around it.
+Bronze, 104.5cm (Roman, 1st century C.E.).
 [Image](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=459074&amp;partId=1) via The British Museum.
 
 ---
@@ -8208,7 +8208,7 @@ Zeus convenes a council of divinities. Many gods and goddesses are invited, and 
 
 By now Achilles has a new set of armor, and he is ready to fight the Trojans. But his first major opponent seems to be a distraction. At least, our initial impression may lead us to think that there is a distraction going on here. The first major opponent of Achilles in *Iliad* 20 is Aeneas, hero of epic traditions that eventually became absorbed into the *Aeneid* of Virgil. Is this hero, we may ask, a truly worthy opponent of Achilles? Are the epic traditions that figure this son of Aphrodite / Venus truly worthy of the epic that is the Homeric *Iliad*? Once we examine more closely the oldest Greek epic traditions of Aeneas, it will become clear that this hero is indeed a most important opponent of Achilles, in that he represents ancient Greek epic traditions that are different from and antithetical to the epic tradition that prevailed in the Homeric *Iliad* as we know it. Not only does Aeneas challenge Achilles: even the epic traditions that figure Aeneas will challenge the epic traditions that figure Achilles. To say it another way, Aeneas represents a proto-Aeneid that challenges the proto-Iliad of Achilles. What makes Aeneas and his Aeneid—or, better, Aeneids—such a formidable challenge to Achilles is the enormous political prestige of the epic tradition that backs up Aeneas. By virtue of being the son of Aphrodite/Venus, Aeneas possesses a genealogical and dynastic charisma that threatens to overshadow the purely epic charisma of his Iliadic opponent Achilles.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/12/Luca_Ferrari_-_Venus_preventing_her_son_Aeneas_from_killing_Helen_of_Troy_-_Google_Art_Project.jpg)“Venus preventing her son Aeneas from killing Helen of Troy,” Luca Ferrari, circa 1650.   
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/12/Luca_Ferrari_-_Venus_preventing_her_son_Aeneas_from_killing_Helen_of_Troy_-_Google_Art_Project.jpg)“Venus preventing her son Aeneas from killing Helen of Troy,” Luca Ferrari, circa 1650.
 Luca Ferrari [Public domain], via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Luca_Ferrari_-_Venus_preventing_her_son_Aeneas_from_killing_Helen_of_Troy_-_Google_Art_Project.jpg)<u>[.]()</u>
 
 ---
@@ -8515,7 +8515,7 @@ So long as the anger of Achilles remains in force, the Trojans will remain in po
 
 The momentum of Achilles continues to heat up. The Trojans are now retreating as fast as they can, heading back toward Troy to find safety there within the sacred walls of that ancient citadel. In their hurry to get away from the field of battle, their hasty retreat has quickly turned into a chaotic and humiliating rout. Achilles is right behind them, in hot pursuit, slaughtering left and right the fleeing Trojans. The hero seems unstoppable. But Achilles meets his match when he provokes the river god Scamander, whose clear streams he has polluted with the gore of countless Trojans that he slaughters while they are desperately attempting to ford the god’s river.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/12/29_Flaxman_Ilias_1793_gestochen_1795.jpg)Copperplate etching (1795) by Tommaso Piroli, after a drawing (1793) by John Flaxman.   
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/12/29_Flaxman_Ilias_1793_gestochen_1795.jpg)Copperplate etching (1795) by Tommaso Piroli, after a drawing (1793) by John Flaxman.
 [Image](https://commons.wikimedia.org/wiki/File:(29)_Flaxman_Ilias_1793,_gestochen_1795,_185_x_275.jpg) via Wikimedia Commons.
 
 ---
@@ -8653,7 +8653,7 @@ comment on the evidence of the scholia for how to read eason/heason in this vers
 
 The time has come for Hector to die at the hands of Achilles, and his final moments of life are singularly grim. Achilles shows him no mercy, expressing the most brutal thoughts even before he vengefully finishes off the killer of Patroklos. Hector is forced to know in advance, before he loses consciousness to the death blow from Achilles, that his executioner intends to mutilate his corpse instead of allowing for a proper funeral. And the form of this mutilation is particularly horrific and morally shocking: attaching the body of Hector to the back of his chariot, Achilles will drag it around the walls of Troy for all to see the humiliation of his hated enemy. Is there any hope, then, for transcending such degradation? Only divine intervention, in the story yet to be told, could prevent the disfigurement of a heroic body’s beauty in death. But the story of transcendence must wait. For now, the focus is on the horror and the sorrow of a heroic death as seen through the eyes of Hector’s lamenting widow Andromache.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2015/03/30_Flaxman_Ilias_1793_gestochen_1795_187_x_256.jpg)Copperplate etching (1795) by Tommaso Piroli, after a drawing (1793) by John Flaxman.   
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2015/03/30_Flaxman_Ilias_1793_gestochen_1795_187_x_256.jpg)Copperplate etching (1795) by Tommaso Piroli, after a drawing (1793) by John Flaxman.
 [Image](https://commons.wikimedia.org/wiki/File:%2830%29_Flaxman_Ilias_1793,_gestochen_1795,_187_x_256.jpg) via Wikimedia Commons.
 
 ---
@@ -8893,7 +8893,7 @@ All five of these points, as we will see retrospectively in the anchor comment a
 
 The funeral that Achilles arranges here for Patroklos in the *Iliad* is in some ways a preview of the funeral that the Achaeans will arrange for Achilles himself beyond the time-frame of the *Iliad*. A high point of the funeral in *Iliad* 23 is a spectacular chariot race arranged by Achilles to honor his dead comrade Patroklos. But an earlier high point is a comparably spectacular cremation of his friend’s body. But this cremation of Patroklos, as a ritual, is far from perfect: it is in fact polluted, and the pollution will make Achilles look bad, at least for the moment. The polluted thoughts of the hero, as evidenced by his dragging the corpse of Hector behind his speeding chariot, will drive him to extremes that will challenge the cosmic order. But the Master Narrator of the *Iliad* will remedy the pollution, and the remedy will take the form of actually narrating the grim story. In the process of this narration, a great lesson will be learned about life, death, and a hoped-for recovery of life.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/12/32_Flaxman_Ilias_1793_gestochen_1795_189_x_383_mm_1280.jpg)Achilles dragging the body of Hector. Copperplate etching (1795) by Tommaso Piroli, after a drawing (1793) by John Flaxman.   
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/12/32_Flaxman_Ilias_1793_gestochen_1795_189_x_383_mm_1280.jpg)Achilles dragging the body of Hector. Copperplate etching (1795) by Tommaso Piroli, after a drawing (1793) by John Flaxman.
 [Image](https://commons.wikimedia.org/wiki/File:(32)_Flaxman_Ilias_1793,_gestochen_1795,_189_x_383_mm.jpg) via Wikimedia Commons.
 
 ---
@@ -9494,7 +9494,7 @@ The *agōn* ‘competition’, that is, the ‘coming together’ for the sake o
 
 The *Iliad* ends with the funeral of Hector, not of Achilles. And it is Hector, not Achilles, who is lamented at the end. But it is Achilles who makes it all happen, since he has transcended his rage and has shown mercy to an old father. The tears of Priam had made Achilles think of his own old father, of his own ancestors—and of Patroklos, who embodied the glories of the ancestors. Achilles was looking bad at the beginning of *Iliad* 23 and even at the beginning of *Iliad* 24, but he looks very good by the time *Iliad* 24 comes to a close.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/12/34_Flaxman_Ilias_1793_gestochen_1795_184_x_346_mm_1280.jpg)Mourners lament as Hector’s corpse is laid out in preparation for the funeral that closes *Iliad* Rhapsody 24. Copperplate etching (1795) by Tommaso Piroli, after a drawing (1793) by John Flaxman.   
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2016/12/34_Flaxman_Ilias_1793_gestochen_1795_184_x_346_mm_1280.jpg)Mourners lament as Hector’s corpse is laid out in preparation for the funeral that closes *Iliad* Rhapsody 24. Copperplate etching (1795) by Tommaso Piroli, after a drawing (1793) by John Flaxman.
 [Image](https://commons.wikimedia.org/wiki/File:(34)_Flaxman_Ilias_1793,_gestochen_1795,_184_x_346_mm.jpg) via Wikimedia Commons.
 
 ---
@@ -9925,7 +9925,7 @@ Point 3. There is still more to be said about this adjective *polutropos* ‘tur
 
 The comments I offer on *Odyssey* Rhapsody 1 through Rhapsody 24, starting here with Rhapsody 1, were based mostly on details that derive from seven books that I indicate in the Bibliography by way of these abbreviations: BA, GMP, H24H, HC, HPC, HQ, HR, MoM, PasP, PH. Each one of these books has its own *index locorum*. My colleague Anita Nikkanen, an Associate Editor for this online project, tracked the sequences of Homeric verses as listed in the indices for six of these books and then summarized my comments on those verses. Following up on her meticulous work, I am in the process of converting her summaries into a form of commentary. My comments on the *Odyssey* as I presented them in *Classical Inquiries* are merely samplings of the content that I hope to contribute to the overall commentary, to which a number of other colleagues are also contributing their own comments. That said, I now proceed to offer a sampling of comments on Rhapsody 1. At this point, my comments about the beginning of the *Odyssey* need no further introduction of their own.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/03/OdysseyZeus_1280.png)Zeus, Athena, and Hermes (1810). Drawing by John Flaxman.  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/03/OdysseyZeus_1280.png)Zeus, Athena, and Hermes (1810). Drawing by John Flaxman.
 [Image](https://commons.wikimedia.org/wiki/File:OdysseyZeus.png) via Wikimedia Commons.
 
 ---
@@ -10046,7 +10046,7 @@ Here is the first mention of Peisistratos, son of Nestor, in the *Odyssey*. (He 
 
 Here the *nostos* of Odysseus, O.01.094, is shown to be not only a ‘homecoming’ but also a ‘song of homecoming’. On the meaning ‘song of homecoming’, see the comment on O.01.326–327. On *kleos* in the sense of an overall reference to the ‘glory’ of poetry, see the comment on I.02.325. Here at O.01.088–095, we can see that *nostos* as a ‘song of homecoming’ is a prerequisite for the quest of Odysseus to achieve the *kleos* ‘glory’ of poetry. Odysseus will receive the *kleos* ‘glory’ of his own *Odyssey* only if he achieves a successful *nostos* ‘homecoming’, and it is the *kleos* ‘glory’ of poetry that turns his *homecoming* into a *song of homecoming*. What the goddess says at O.01.094 is not that Telemachus will learn *about* the *nostos* of Odysseus if he is fortunate enough to hear *about* it. In the original Greek text, the noun *nostos* is the direct object of both the verb *punthanesthai*, ‘learn’ and the verb *akouein* ‘hear’ at O.01.094 here, and that is why I chose to translate the verse this way: ‘and thus he will learn [*punthanesthai*] the return [*nostos*] of his dear [*philos*] father, if by chance he [= Telemachus] hears [*akouein*] it’. Elsewhere too in the *Odyssey*, we see nostos as the direct object of *punthanesthai* ‘learn’: O.02.215, O.02.264, O.02.360, O.04.714—as also of *akouein* ‘hear’: O.01.287, O.02.218, O.02.360. It is not a question of learning *about* a homecoming, of hearing *about* a homecoming. Rather, Telemachus will learn the actual song of the homecoming, the song of *nostos*, by hearing it. He will actually hear the song from the hero Nestor in *Odyssey* 3 and from the hero Menelaos along with his divine consort Helen in *Odyssey* 4. (This formulation is epitomized from [H24H 9§20](https://chs.harvard.edu/CHS/article/display/5951.part-i-hour-9-the-return-of-odysseus-in-the-homeric-odyssey); see also [Stone 2016.09.28](https://classical-inquiries.chs.harvard.edu/getting-over-odysseus/).)
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/03/OdysseyAthena_1280.png)Athena (1810). Drawing by John Flaxman.  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/03/OdysseyAthena_1280.png)Athena (1810). Drawing by John Flaxman.
 [Image](https://commons.wikimedia.org/wiki/File:OdysseyAthena.png) via Wikimedia Commons.
 
 ---
@@ -10763,7 +10763,7 @@ As Telemachus, accompanied by Peisistratos, arrives at Sparta, he finds that a w
 
 With the continued aid of the goddess Athena, young Telemachus now becomes an ideal guest for his new hosts, Menelaos together with Helen. The identity of Helen as a goddess becomes more evident now that she is back in Sparta. This divine identity will point to the future immortalization of the hero Menelaos by virtue of his winning back Helen as his consort.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/04/6482735053_1b879326ab_o.jpg)“The Fair Helen.” Willy Pogany (Hungarian, 1882–1955).  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/04/6482735053_1b879326ab_o.jpg)“The Fair Helen.” Willy Pogany (Hungarian, 1882–1955).
 Image [via](https://www.flickr.com/photos/odisea2008/6482735053/).
 
 ---
@@ -11402,7 +11402,7 @@ The wording that starts Rhapsody 6 here at O.06.001–112 picks up where the wor
 
 Nausicaa, princess of the Phaeacians, makes her appearance as a potential but unattainable love-interest for Odysseus—and as a delight for all who find themselves irresistibly drawn into the story of her girlish but principled encounter with the enthralled hero.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/05/1878_Frederick_Leighton_-_Nausicaa_1280.jpg)“Nausicaa” (1878), Frederick Leighton (English, 1830–1896).  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/05/1878_Frederick_Leighton_-_Nausicaa_1280.jpg)“Nausicaa” (1878), Frederick Leighton (English, 1830–1896).
 [Image](https://commons.wikimedia.org/wiki/File%3A1878_Frederick_Leighton_-_Nausicaa.jpg) via Wikimedia Commons.
 
 This Rhapsody belongs to Nausicaa. I spell her name in its familiar latinized form, with a *c*, since her fame extends far beyond the ancient Greek world, where she appears as Ναυσικάα. In any case, the name has a certain primacy of place. I have no idea who said it first, but I first heard it from the long-departed Sterling Dow in the early 1960s: if you look up all surviving ancient Greek names in reverse alphabetical order, the first one you see is Nausicaa = Ναυσικάα, while the very last of them all is Calypso = Καλυψώ. Surely we see here a coincidence, not some mysterious signal emanating from some grand cosmic plan, but the coincidence itself seems just as lovely as Nausicaa is lovely. Some critics view her as a youthful love-interest for Odysseus, matching Calypso as the hero’s divine love-interest. But such a view detracts from the loveliness: Nausicaa is meant to be a love-interest for all who hear her story—just as Calypso is a universal love-interest in her own story as told in Rhapsody 5. In the story of Nausicaa as told in Rhapsody 6, she is pictured as the perfect bride for any man fortunate enough to succeed in marrying her—and she knows it. The self-awareness of Nausicaa is shaped by the poetry that idealizes her eligibility by animating her beauty and her charm to the point where she becomes comparable to the goddess Artemis. Odysseus himself initiates the comparison and, by comparing the girl to the goddess, he is signaling to himself that Nausicaa, even if she does not know it yet, is for him enticingly unattainable.
@@ -11443,7 +11443,7 @@ Nausicaa wakes up at dawn, O.06.048–049, and goes from her room to the central
 
 At O.06.085–099, Nausicaa and the girls who attend her are at the banks of a river, washing the clothes they have brought from the palace, and then waiting for the wet clothes to dry in the sun; while they wait, they clean up and enjoy each other’s company as they indulge in a picnic. Next, at O.06.100–101, after having finished eating and drinking, they start playfully singing and dancing with each other: the playfulness of the song and dance is expressed by the verb *paizein* ‘play’ at O.06.100, while the actual singing /dancing is expressed by the noun *molpē* ‘singing and dancing’ at O.06.101. The prima donna / prima ballerina of the singing / dancing is Nausicaa herself, as expressed by the verb *arkhesthai* ‘lead off [in performing]’, again at O.06.101. The dancing in this case includes the playful tossing of a *sphaira* ‘ball’, O.06.100. While the girls are feeling all freed up in their playfulness, they throw off the *krēdemna* or ‘veils’ that they are wearing. So, now we can see that Nausicaa and the girls who attend her would not even think of going out in public without first putting on their *krēdemna* ‘veils’. They won’t leave home without wearing their headdresses. But now they are no longer in public—or so they imagine. The detail about wearing a veil when the girls leave home and go outdoors is hardly a signal of their being married. Clearly, all these girls are unmarried. So, we see here that unmarried women as well as married women like Andromache wear the *krēdemnon* in public. The custom is simply a signal of propriety. On the function of the *krēdemnon* ‘headdress’ as an equivalent of a ‘veil’, I recommend the work of Levine 1995 (especially pp. 96–110), who shows that the custom of wearing a veil is part of a “cultural grammar of hair” (Levine p. 95). Relevant are my comments about O.05.333–353 with reference to Ino the White Goddess and, earlier, about I.22.460–474 with reference to Andromache. In both sets of comments, I noted that the undoing of a woman’s hair, caused by the undoing of her *krēdemnon*, produces what I called an *Aphrodisiac effect*. So long as a woman’s *krēdemnon* is in place, her sexuality is under control just as her hair is under control. When the *krēdemnon* is out of place, however, her sexuality threatens to get out of control. But there is even more to it. When a woman or girl has her hair undone in a private place, then her sexuality is under control—so long as the vision of the woman or girl with hair undone is private. But what happens when the undoing of the hair is represented in the verbal arts or visual arts? Then the view becomes public and even voyeuristic, as we see for example in the painting I show here:
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/05/430082001_1280.jpg)Red-figured pyxis, picturing Nereids at home, “indoors”: the Nereid with her hair down is labeled as Thaleia.  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/05/430082001_1280.jpg)Red-figured pyxis, picturing Nereids at home, “indoors”: the Nereid with her hair down is labeled as Thaleia.
 <u>[Image](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?assetId=195427001&amp;objectId=400084&amp;partId=1)</u> via The British Museum.
 
 Similarly, there is something voyeuristic about the representation of Nausicaa and the girls who attend her as they sing and dance without wearing their veils: they imagine they are in a private place, but the medium of verbal art is watching them, making their performance public. In this scene, Odysseus is not the only voyeur.
@@ -12438,7 +12438,7 @@ Odysseus and his companions have escaped from the cave of the Cyclops, where som
 
 This Rhapsody centers on the bewitching goddess Circe, whose mystical powers will lead Odysseus to make direct contact with the dead—and with the world of heroes who have already died.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/05/Circe_Invidiosa_1280.jpg)“Circe Invidiosa,” (1892). J. W. Waterhouse (English, 1849–1917).  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/05/Circe_Invidiosa_1280.jpg)“Circe Invidiosa,” (1892). J. W. Waterhouse (English, 1849–1917).
 [Image](https://commons.wikimedia.org/wiki/File:J._W._Waterhouse_-_Circe_Invidiosa_-_Google_Art_Project.jpg) via Wikimedia Commons.
 
 Circe, like her mystical island, is at first disorienting for Odysseus, but the goddess will in due course reorient the hero, making it possible for him to learn how he will ultimately make his way back home. Odysseus will find his reorientation in the realm of the unconscious.
@@ -13036,7 +13036,7 @@ Part 5. Despite such moments of disorientation for Odysseus, his *nóos*, ‘thi
 
 The storytelling of Odysseus is about to confront three of its most mystical moments here: the Song of the Sirens, Scylla and Charybdis, the Cattle of the Sun. The myths that shape these moments will become for Odysseus a set of powerful metaphors that drive his own odyssey.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/06/Draper-Ulysses_and_Sirens_1280.jpg)“Ulysses and the Sirens” (ca. 1909). Herbert James Draper (English, 1863–1920).  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/06/Draper-Ulysses_and_Sirens_1280.jpg)“Ulysses and the Sirens” (ca. 1909). Herbert James Draper (English, 1863–1920).
 [Image](https://commons.wikimedia.org/wiki/File:Draper-Ulysses_and_Sirens.jpg) via Wikimedia Commons.
 
 ---
@@ -13512,7 +13512,7 @@ The goddess here formally declares to Odysseus her support for the hero, which l
 
 Now that he has finally returned to his homeland of Ithaca, Odysseus must accomplish another kind of return: he must be restored to kingship. Such a restoration, however, must start from the bottom up. The goddess Athena, his ultimate benefactor but occasional antagonist, has made Odysseus seem to be ‘base’ on the outside, hiding his inner moral nobility. Only those who are likewise morally ‘noble’ will be able to read, as it were, the hero’s true nature. Meanwhile, the coded tales told by Odysseus point toward the truth of his kingship—without revealing it outright. A telling example here in Rhapsody 14 is the second Cretan tale told by Odysseus: it is about a Cretan princeling, not unlike the dapper figure we see in the romanticized restoration of a Minoan fresco as featured in the cover-illustration for Rhapsody 14.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/06/Knossos_frise2_1280.jpg)Minoan—probably Neopalatial—fresco commonly known as the “Lily Prince.” Whatever the exact type of this personage (perhaps a crowned acrobat, according to the interpretation of Maria Shaw), the Lily Prince is certainly a Minoan of elite standing. Public domain image based on a famous watercolor by Émile Gilliéron of a reconstruction by Arthur Evans.  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/06/Knossos_frise2_1280.jpg)Minoan—probably Neopalatial—fresco commonly known as the “Lily Prince.” Whatever the exact type of this personage (perhaps a crowned acrobat, according to the interpretation of Maria Shaw), the Lily Prince is certainly a Minoan of elite standing. Public domain image based on a famous watercolor by Émile Gilliéron of a reconstruction by Arthur Evans.
 [Image](https://commons.wikimedia.org/wiki/File:Knossos_frise2.JPG) via Wikimedia Commons.
 
 ---
@@ -13826,7 +13826,7 @@ Here again, as at O.11.179, it is said that whoever succeeds in marrying Penelop
 
 Odysseus, because of his external appearance as an old beggar, cannot be recognized by his own son Telemachus. To make the recognition happen, the goddess Athena temporarily transforms the father into a young aristocrat. For Telemachus, however, the transformation itself can be read as the epiphany of a god.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/07/T11211_10_1280.jpg)“Minerva Restoring Ulysses to his Own Shape” (1805). John Flaxman (English, 1755–1826). Purchased as part of the Oppé Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996.  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/07/T11211_10_1280.jpg)“Minerva Restoring Ulysses to his Own Shape” (1805). John Flaxman (English, 1755–1826). Purchased as part of the Oppé Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996.
 [Image](http://www.tate.org.uk/art/artworks/flaxman-minerva-restoring-ulysses-to-his-own-shape-t11211) via the Tate.
 
 ---
@@ -14695,7 +14695,7 @@ In the response of Penelope, O.19.562–569, to the response of Odysseus in inte
 
 Rhapsody 20 reveals the darkest thoughts of Penelope. There she is, lying awake in bed, unable to fall asleep, and now she starts to think the unthinkable, tearfully spilling her private thoughts by praying to Artemis: I want to die in the worst way, she confides to the goddess, so why don’t you shoot me with your arrows, putting me out of my misery? Or maybe my death should be even worse? Penelope is now haunted by horror stories about unfortunate girls who thought they were getting married but who instead became servants to infernal Furies. She cries for them and she cries for herself, thinking of a dream she had about sleeping with Odysseus, who was looking the way he had looked twenty years ago. Her crying carries over till daybreak, and her laments are overheard from not that far away by Odysseus, who is having his own dark thoughts about the vengeance he so passionately desires.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/08/T11215_10_1280.jpg)“The Harpies Going to Seize the Daughters of Pandareus” (1805). John Flaxman (English, 1755–1826). Purchased as part of the Oppé Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996.  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/08/T11215_10_1280.jpg)“The Harpies Going to Seize the Daughters of Pandareus” (1805). John Flaxman (English, 1755–1826). Purchased as part of the Oppé Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996.
 [Image](http://www.tate.org.uk/art/artworks/flaxman-the-harpies-going-to-seize-the-daughters-of-pandarus-t11215) via the Tate.
 
 ---
@@ -15203,7 +15203,7 @@ Odysseus is given a ritualized bath, in the course of which the goddess Athena t
 
 After a ritual bath in an *asaminthos* ‘bathtub’, O.23.163, Odysseus is described this way: ‘he [= Odysseus] emerged from the bathtub [*asaminthos*], looking the same as [*homoios*] the immortals in shape’ (ἔκ ῥ’ ἀσαμίνθου βῆ δέμας ἀθανάτοισιν ὁμοῖος). For parallel wording in a description of Telemachus emerging from a ritual bath in an *asaminthos* ‘bathtub’, see O.03.468 and the comment at O.03.464–468. For *homoio*- in the sense of ‘same as’ in a similar ritual context, signaling an epiphany, see the comment on O.16.172–212. At this point, Odysseus no longer looks like a middle-aged man: in the context of the ritual bath that he has taken, he looks like a perfect bridegroom, at the perfect age for a perfect wedding. Thus he looks like the Odysseus who slept with Penelope in her dream as described at O.20.087–090. I review here the essentials: in her wakeful agonizing, unable to fall asleep, Penelope had recalled a dream she once had: there she was, lying in bed with Odysseus at her side, and he was looking the way he had looked when she had last seen him twenty years earlier. It seemed to her then, she says at O.20.090, that this was not an *onar* ‘dream’ but a *hupar* *esthlon* ‘wakeful reality’ (οὐκ ὄναρ, ἀλλ’ ὕπαρ ἐσθλόν). But now at O.23.163, as Odysseus emerges from his ritual bath looking like a perfect bridegroom, that dream of Penelope is about to become a wakeful reality.
 
-![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/08/EdNNorma_pencil_lg.jpeg)Big Ed and Norma have just now broken free of the troublesome relationships that have kept these lovers apart for 27 years. Now at long last they can have a life together.  
+![draft js image error](https://classical-inquiries.chs.harvard.edu/wp-content/uploads/2017/08/EdNNorma_pencil_lg.jpeg)Big Ed and Norma have just now broken free of the troublesome relationships that have kept these lovers apart for 27 years. Now at long last they can have a life together.
 Still from [Twin Peaks 3 Episode 15](https://www.youtube.com/watch?v=ppaa3qBlnG4), reworked by Jill Curry Robbins.
 
 ---

@@ -18,7 +18,7 @@ defmodule AHCIPWeb.Router do
     pipe_through(:browser)
 
     get("/", PageController, :home)
-    get("/about", PageController, :about)
+    get("/foreword", PageController, :foreword)
     get("/passages/:urn", PassageController, :show)
   end
 
