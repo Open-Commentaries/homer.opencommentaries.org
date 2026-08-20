@@ -19,7 +19,7 @@ defmodule Mix.Tasks.GenerateStatic do
 
     output_dir = output_dir()
 
-    routes = ["/", "/about"] ++ passage_routes()
+    routes = ["/", "/foreword"] ++ passage_routes()
     Enum.each(routes, &generate_html_for_route(&1, output_dir))
 
     copy_assets(output_dir)

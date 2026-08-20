@@ -46,13 +46,15 @@ jobs:
         DEST_PATH: "translation/ahcip.zip"
     - name: Unzip translations Dropbox archive
       run: unzip translation/ahcip.zip -d translation/ahcip
+    - name: Build assets
+      run: mix assets.build
     - name: Build site
-      run: mix ahcip.build
+      run: mix generate_static
     - name: Upload static files as artifact
       id: deployment
       uses: actions/upload-pages-artifact@v3
       with:
-        path: output/
+        path: priv/build/
 
   # Deployment job
   deploy:
