@@ -63,7 +63,7 @@
   <%= if @comments != [] do %>
     <aside class="w-80 shrink-0 flex flex-col gap-3">
       <%= for comment <- @comments do %>
-        <details class="group rounded-box border border-base-300 bg-base-100 text-sm">
+        <details class="group rounded-box border border-base-300 bg-base-100 text-sm" id={comment["citation_urn"]}>
           <summary class="flex cursor-pointer list-none items-start justify-between px-4 py-3 gap-3">
             <span class="font-medium shrink-0">
               <%= if comment["start_line"] == comment["end_line"] do %>
@@ -76,6 +76,16 @@
           </summary>
           <div class="px-4 pb-4 pt-1 prose prose-sm max-w-none">
             <%= Phoenix.HTML.raw(comment["content_html"]) %>
+          </div>
+          <div class="px-4 pb-3">
+            <button
+              type="button"
+              class="cite-btn text-xs text-base-content/50 underline hover:text-base-content/80"
+              data-cite-authors={Enum.join(comment["authors"], ", ")}
+              data-cite-passage={citation_passage(@display_title, comment)}
+            >
+              Cite this
+            </button>
           </div>
         </details>
       <% end %>

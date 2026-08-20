@@ -37,6 +37,59 @@ topbar.config({barColors: {0: "#29d"}, shadowColor: "rgba(0, 0, 0, .3)"})
 window.addEventListener("phx:page-loading-start", _info => topbar.show(300))
 window.addEventListener("phx:page-loading-stop", _info => topbar.hide())
 
+// "Cite this" buttons on comments: copy a formatted citation with a
+// deep link to the comment to the clipboard.
+function copyText(text) {
+  if (navigator.clipboard && window.isSecureContext) {
+    // The Clipboard API can still reject with NotAllowedError even in a
+    // secure context (e.g. an embedding iframe without clipboard-write
+    // permission), so fall back to execCommand on failure.
+    return navigator.clipboard.writeText(text).catch(() => copyTextFallback(text))
+  }
+
+  return copyTextFallback(text)
+}
+
+function copyTextFallback(text) {
+  return new Promise((resolve, reject) => {
+    const textarea = document.createElement("textarea")
+    textarea.value = text
+    textarea.style.position = "fixed"
+    textarea.style.opacity = "0"
+    document.body.appendChild(textarea)
+    textarea.focus()
+    textarea.select()
+
+    try {
+      document.execCommand("copy") ? resolve() : reject(new Error("execCommand copy failed"))
+    } catch (error) {
+      reject(error)
+    } finally {
+      document.body.removeChild(textarea)
+    }
+  })
+}
+
+document.addEventListener("click", event => {
+  const button = event.target.closest("[data-cite-authors]")
+  if (!button) return
+
+  const details = button.closest("details[id]")
+  const url = new URL(window.location.href)
+  url.hash = details ? details.id : ""
+
+  const citation =
+    `${button.dataset.citeAuthors} on ${button.dataset.citePassage}. 2017–. ` +
+    `In _A Homer Commentary in Progress_. ${url.toString()}`
+
+  const original = button.textContent
+
+  copyText(citation)
+    .then(() => { button.textContent = "Copied!" })
+    .catch(() => { button.textContent = "Copy failed" })
+    .finally(() => { setTimeout(() => { button.textContent = original }, 1500) })
+})
+
 // connect if there are any LiveViews on the page
 liveSocket.connect()
 
