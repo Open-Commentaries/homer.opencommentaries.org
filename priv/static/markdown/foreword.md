@@ -157,8 +157,7 @@ with Charles Pletcher.
 
 **Bibliography**
 
-AHCIP = *A Homer commentary in progress*. See Frame, Muellner, and Nagy
-2017-.
+AHCIP = *A Homer commentary in progress*. See Frame, Muellner, and Nagy 2017-; ed, Martin 2026–.
 
 Dué, C., and M. Ebbott. 2010. *Iliad 10 and the Poetics of Ambush: A
 Multitext Edition with Essays and Commentary*. Hellenic Studies Series
@@ -222,7 +221,7 @@ Martin, R. P. 2020. *Mythologizing Performance*. Ithaca, NY.
 <https://continuum.fas.harvard.edu/book/mythologizing-performance/>.
 
 Martin, R. P., ed. 2026--. "A Homer commentary in progress." Executive
-Editors: K. DeStone and C. Filos.
+Editors: K. DeStone and C. Filos. https://homer.opencommentaries.org/.
 
 Meillet, A. 1921/1936. *Linguistique historique et linguistique
 générale*. I/II. Paris.
@@ -255,7 +254,7 @@ Nagy, G. 2022.12.01. "Comments on the Homeric *Iliad* and *Odyssey*," by
 Gregory Nagy, restarted 2022. *Classical Continuum*.
 <https://continuum.fas.harvard.edu/a-sampling-of-comments-on-the-homeric-iliad-and-odyssey-restarted-2022/>.
 
-Nagy, G. 2026.08.20. "A foreword to a Homer commentary in progress."
+Nagy, G. 2026.08.19. "A foreword to a Homer commentary in progress."
 *Classical Continuum*.
 
 Parry, A., ed. 1971. *The Making of Homeric Verse: The Collected Papers
