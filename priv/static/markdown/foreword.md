@@ -33,7 +33,7 @@ strongly influenced by his lifelong research, as summarized in Lord's
 magisterial synthesis, *The Singer of Tales* (1960; second edition 2000
 by Stephen Mitchell and Gregory Nagy, with new introduction; third
 edition 2019 by David Elmer); and translated into many languages, most 
-recently, [Brazilian Portuguese] (https://www.editora.ufpr.br/antropologia/cantor-de-historias-o-ed--3-552/p)).
+recently, Brazilian Portuguese (available here: https://www.editora.ufpr.br/antropologia/cantor-de-historias-o-ed--3-552/p)).
 
 Lord's work convinced us that Homeric poetry is a system generated from
 oral traditions, and that the building blocks of this system are
