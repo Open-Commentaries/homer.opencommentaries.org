@@ -60,8 +60,8 @@ defmodule AHCIP.FallbackMerge do
     "#{work.title}"
   end
 
-  def display_title(%Book{number: number}, %{section_label: label}) do
-    "#{label} #{number}"
+  def display_title(%Book{number: number}, %{section_label: label, title: title}) do
+    "#{title}, #{label} #{number}"
   end
 
   def display_title(%Book{number: number}, _work) do
